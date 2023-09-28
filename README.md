@@ -8,9 +8,6 @@
 -->
 
 # Communicate using Markdown
-# h1 header so big that's crazy!
-## h2 header is kinda big huh
-###### h6 header is soooo small
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -60,8 +57,6 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit the changes to the file.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-I added three new headers of all different sizes.
 
 <footer>
 
